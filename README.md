@@ -19,11 +19,14 @@ Report was created through Looker Studio based on the following requirements:
 10. Top 5 of our most accepted services in each country.    
 
 ## Datos
-- Dataset Global Internet users: [Enlace a los datos](https://www.kaggle.com/datasets/ashishraut64/internet-users)
-- Dataset Users: [Enlace a los datos](https://docs.google.com/spreadsheets/d/12WCdw5-NKUeg4wYXk5lYtubecDoPjI5td8iP7iuWiKU/edit?usp=share_link)
-- Dataset Services: [Enlace a los datos](https://drive.google.com/file/d/15-RzpivUaahH_TM1-syOfaGJKEN18gQg/view?usp=share_link)
+- Dataset Global Internet users: [Data Link](https://www.kaggle.com/datasets/ashishraut64/internet-users)
+- Dataset Users: [Data Link](https://docs.google.com/spreadsheets/d/12WCdw5-NKUeg4wYXk5lYtubecDoPjI5td8iP7iuWiKU/edit?usp=share_link)
+- Dataset Services: [Data Link](https://drive.google.com/file/d/15-RzpivUaahH_TM1-syOfaGJKEN18gQg/view?usp=share_link)
 
 ## Herramientas Utilizadas
 - Google Sheets, Looker Studio.
 
+## Developments
+- Google Sheets: [Data Link](https://docs.google.com/spreadsheets/d/1FEJrgz-C-kNdXO0rJC2EfpDJIxNaSTSF9KYQWYnlBCU/edit?usp=sharing)
+- Looker Studio: [Visualization Link](https://lookerstudio.google.com/reporting/cad429b1-7811-44ae-97ce-ccb45f75d4ce)
 
