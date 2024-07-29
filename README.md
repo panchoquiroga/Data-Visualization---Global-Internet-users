@@ -18,12 +18,12 @@ Report was created through Looker Studio based on the following requirements:
 9. a) Which country had the highest number of users with more than one mobile line per person in 2020? b) How many countries did not reach the average of one mobile phone per person for that year? c) What was the average number of mobile subscribers in this last group of countries?
 10. Top 5 of our most accepted services in each country.    
 
-## Datos
+## Datasets
 - Dataset Global Internet users: [Data Link](https://www.kaggle.com/datasets/ashishraut64/internet-users)
 - Dataset Users: [Data Link](https://docs.google.com/spreadsheets/d/12WCdw5-NKUeg4wYXk5lYtubecDoPjI5td8iP7iuWiKU/edit?usp=share_link)
 - Dataset Services: [Data Link](https://drive.google.com/file/d/15-RzpivUaahH_TM1-syOfaGJKEN18gQg/view?usp=share_link)
 
-## Herramientas Utilizadas
+## Tools used
 - Google Sheets, Looker Studio.
 
 ## Developments
